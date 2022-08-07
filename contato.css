@@ -59,7 +59,7 @@ nav a::after{
     content: " ";
     width: 0%;
     height: 2px;
-    background-color: var(--preto);
+    background-color: var(--vermelho);
     position: absolute;
     bottom: 0;
     left: 0;
